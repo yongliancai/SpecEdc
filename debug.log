@@ -1,0 +1,6 @@
+[1223/104344.504:ERROR:directory_reader_win.cc(43)] FindFirstFile: 系統找不到指定的路徑。 (0x3)
+[1224/081859.232:ERROR:process_reader_win.cc(151)] SuspendThread: 存取被拒。 (0x5)
+[1224/081859.232:ERROR:exception_snapshot_win.cc(99)] thread ID 14344 not found in process
+[1224/081859.232:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: 嘗試存取現有的處理程序。 (0xc000010a)
+[1224/111458.052:ERROR:directory_reader_win.cc(43)] FindFirstFile: 系統找不到指定的路徑。 (0x3)
+[1225/101050.015:ERROR:directory_reader_win.cc(43)] FindFirstFile: 系統找不到指定的路徑。 (0x3)
