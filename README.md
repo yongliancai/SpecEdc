@@ -43,17 +43,17 @@ try
 	border-radius: 6px; 
 	border-radius: 6px; 
 	border: none;
-    color: white;
-    padding: 10px 20px;
-    text-align: center;
-    display: inline-block;
-    font-size: 25spx;
-    margin: 3px 2px;
-    -webkit-transition-duration: 0.4s; /* Safari */
-    transition-duration: 0.4s;
-    cursor: pointer;
-    text-decoration: none;
-    text-transform: uppercase;
+    	color: white;
+    	padding: 10px 20px;
+  	 text-align: center;
+   	 display: inline-block;
+   	 font-size: 25spx;
+   	 margin: 3px 2px;
+   	 -webkit-transition-duration: 0.4s; /* Safari */
+   	 transition-duration: 0.4s;
+    	cursor: pointer;
+    	text-decoration: none;
+    	text-transform: uppercase;
 
 	
 	}
